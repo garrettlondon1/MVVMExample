@@ -27,11 +27,12 @@ namespace MVVMExample
             }
         }
 
-        public void Initialize()
+        public async void Initialize()
         {
             try
             {
                 this.IsLoading = true;
+                //await Task.Delay(10);
                 RandomNumber = new Random().Next();
             }
             finally
