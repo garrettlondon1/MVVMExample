@@ -1,0 +1,10 @@
+﻿@inherits BaseViewModelView<IChildViewModel>
+
+@if (ViewModel.IsLoading)
+{
+    <b>LOADING LOADING</b>
+}
+else
+{
+    <p>Child is currently shown. @ViewModel.RandomNumber</p>
+}

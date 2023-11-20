@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "T8HawOIHG/oLim0L48jlaUiBYaID/0RNBq7DF7kTpP8=",
+  "Source": "MVVMExample",
+  "BasePath": "_content/MVVMExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MVVMExample\\wwwroot",
+      "Source": "MVVMExample",
+      "ContentRoot": "C:\\Github\\MVVMExample\\wwwroot\\",
+      "BasePath": "_content/MVVMExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Github\\MVVMExample\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVVMExample.styles.css",
+      "SourceId": "MVVMExample",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Github\\MVVMExample\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/MVVMExample",
+      "RelativePath": "MVVMExample.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Github\\MVVMExample\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVVMExample.styles.css"
+    },
+    {
+      "Identity": "C:\\Github\\MVVMExample\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVVMExample.bundle.scp.css",
+      "SourceId": "MVVMExample",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Github\\MVVMExample\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MVVMExample",
+      "RelativePath": "MVVMExample.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Github\\MVVMExample\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVVMExample.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Github\\MVVMExample\\wwwroot\\app.css",
+      "SourceId": "MVVMExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Github\\MVVMExample\\wwwroot\\",
+      "BasePath": "_content/MVVMExample",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}

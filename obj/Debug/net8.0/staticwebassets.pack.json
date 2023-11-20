@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Github\\MVVMExample\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVVMExample.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MVVMExample.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Github\\MVVMExample\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVVMExample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MVVMExample.props",
+      "PackagePath": "build\\MVVMExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MVVMExample.props",
+      "PackagePath": "buildMultiTargeting\\MVVMExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MVVMExample.props",
+      "PackagePath": "buildTransitive\\MVVMExample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

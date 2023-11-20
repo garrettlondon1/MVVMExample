@@ -1,0 +1,19 @@
+﻿@inherits BaseViewModelView<IParentViewModel>
+
+
+
+
+@if (this.ViewModel.SelectedSection == "Parent")
+{
+    <b>Parent is shown</b>
+    <br />
+    <button @onclick=@(() => ViewModel.SelectedSection = "ChildView")>Click to switch to child view</button>
+}
+else
+{
+    <ChildView></ChildView>
+    <br />
+    <button @onclick=@(() => ViewModel.SelectedSection = "Parent")>Click to switch to parent view</button>
+    <button @onclick=@(() => ViewModel.SelectedSection = "ChildView")>Click to switch to DIFFERENT CHILD view</button>
+
+}
